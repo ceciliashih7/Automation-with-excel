@@ -1,0 +1,1 @@
+This Python project reads an Excel file, applies a 10% discount to the original prices listed in column C, writes the discounted prices into column D, and generates a bar chart based on the discounted values.
